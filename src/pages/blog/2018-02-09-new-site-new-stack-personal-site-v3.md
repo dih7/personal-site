@@ -16,3 +16,7 @@ Recently I've started using React a lot more in work, so this time it's time to 
 As mentioned, Gatsby and NetlifyCMS was chosen as a replacement to Grav.
 
 For hosting, I've dropped DigitalOcean (which is great, but almost a bit too much for a simple site like mine), and I now use [Netlify](https://www.netlify.com). It was between this and[ Surge.sh](http://surge.sh), but the easy deployment features of Netlify really persuaded me.
+
+## The Code
+
+If you are interested in looking at my questionable code, [check out my GitHub here](https://github.com/dih7).
