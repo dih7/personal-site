@@ -1,7 +1,7 @@
 {
   "name": "dan-hayes-gatsby-netlify-cms",
   "description": "Dan Hayes Gatsby & Netlify w/ NetlifyCMS",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "Dan Hayes",
   "dependencies": {
     "bulma": "^0.6.0",
